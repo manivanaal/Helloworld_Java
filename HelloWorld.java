@@ -4,8 +4,5 @@ public class HelloWorld {
     System.out.println("swathi");
     System.out.println("swathi");
     System.out.println("swathi");
-    System.out.println("swathi");
-    System.out.println("swathi");
-    System.out.println("swathi");
   }
 }
